@@ -25,7 +25,7 @@ num1,num2=num2,num1
 print("Swapped values are:",num1 ,num2)
 
 ```
-##output:
+## output:
 ![label](/Output.png)
 
 
