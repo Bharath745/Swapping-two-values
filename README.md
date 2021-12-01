@@ -29,7 +29,7 @@ print("Swapped values are:",num1 ,num2)
 
 ```
 ## output:
-![output](op.png)
+![label](/op.png)
 
 
 ## RESULlT:
