@@ -11,7 +11,7 @@ Get the two values from the user
 Assign the value of second variable to a temporary variable 
 ### Step 3: 
 Assign the value of the first variable to the second variable.
-[### Step 4:  
+### Step 4:  
 Assign the value in temporary variable to the first variable
 ### Step 5: 
 Print both the values it would be interchanged
